@@ -27,4 +27,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: some info
-      run: ls la
+      run: ls
